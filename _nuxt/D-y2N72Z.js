@@ -1,0 +1,1 @@
+import{_ as e}from"./DAsUnGjR.js";import{e as t,f as n,o as _}from"./_znY7L8Y.js";import"./BoSG85r_.js";const f=t({__name:"[version]",setup(r){return(a,c)=>{const o=e;return _(),n(o)}}});export{f as default};
