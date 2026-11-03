@@ -1,0 +1,1 @@
+import{_ as t}from"./vMtFXME6.js";import{_ as n,f as r,o as c}from"./BiLMbCa4.js";import"./C3yia7Ss.js";import"./BYl_g7ju.js";import"./HlfgHnjK.js";import"./B8JyZHFP.js";import"./DJH9e3UN.js";import"./DEVTyfAT.js";import"./DhE2cGxF.js";import"./ABtIwGI0.js";const p={};function _(e,i){const o=t;return c(),r(o,{occasion:"husband"})}const B=n(p,[["render",_]]);export{B as default};
