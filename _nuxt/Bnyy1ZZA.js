@@ -1,0 +1,1 @@
+import{_ as t}from"./Cq6J1IU7.js";import{_ as r,f as n,o as c}from"./DL9LkR5A.js";import"./oG8u_Mew.js";import"./BA3ZP5zn.js";import"./uOiKP1o0.js";import"./B8wgYWd6.js";import"./xG_O0yFr.js";import"./CIMMC_sq.js";import"./CbvHxtQU.js";import"./CS04Fm52.js";const e={};function p(_,a){const o=t;return c(),n(o,{occasion:"newyear"})}const B=r(e,[["render",p]]);export{B as default};
