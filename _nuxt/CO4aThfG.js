@@ -1,0 +1,1 @@
+import{_ as e}from"./Z32TwPp3.js";import{e as t,f as n,o as _}from"./CMdfca1w.js";import"./Cpv5SnOX.js";const f=t({__name:"listen",setup(r){return(a,c)=>{const o=e;return _(),n(o)}}});export{f as default};

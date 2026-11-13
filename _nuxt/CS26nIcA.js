@@ -1,0 +1,1 @@
+import{_ as t}from"./Dykcq2o4.js";import{_ as n,f as r,o as c}from"./CMdfca1w.js";import"./Cpv5SnOX.js";import"./BEC5kdGC.js";import"./BekOBToX.js";import"./oMVZDnN_.js";import"./DgWU8MZr.js";import"./BkLea-_G.js";import"./CZa6bFTZ.js";import"./rDFnqRvL.js";const _={};function i(m,p){const o=t;return c(),r(o,{occasion:"suno"})}const B=n(_,[["render",i]]);export{B as default};

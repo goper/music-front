@@ -1,0 +1,1 @@
+import{_ as t}from"./Dykcq2o4.js";import{_ as r,f as n,o as c}from"./CMdfca1w.js";import"./Cpv5SnOX.js";import"./BEC5kdGC.js";import"./BekOBToX.js";import"./oMVZDnN_.js";import"./DgWU8MZr.js";import"./BkLea-_G.js";import"./CZa6bFTZ.js";import"./rDFnqRvL.js";const e={};function i(p,_){const o=t;return c(),n(o,{occasion:"jubilee"})}const k=r(e,[["render",i]]);export{k as default};
