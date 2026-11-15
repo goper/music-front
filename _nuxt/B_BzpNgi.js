@@ -1,0 +1,1 @@
+import{_ as t}from"./ChrzmIKA.js";import{_ as r,f as n,o as c}from"./lt7rn6J6.js";import"./D_CS_Oc1.js";import"./B8huDNJ9.js";import"./BGDpK4UN.js";import"./D1IIjieP.js";import"./CwnByVKr.js";import"./BSlQjirx.js";import"./cga9cgAD.js";import"./C99a6wFB.js";const m={};function a(e,p){const o=t;return c(),n(o,{occasion:"mama"})}const g=r(m,[["render",a]]);export{g as default};
