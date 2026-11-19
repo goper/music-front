@@ -1,0 +1,1 @@
+import{_ as e}from"./CTIJVKnF.js";import{e as t,f as n,o as _}from"./BeavpCry.js";import"./DB-AC9A_.js";const f=t({__name:"index",setup(r){return(a,c)=>{const o=e;return _(),n(o)}}});export{f as default};
