@@ -1,0 +1,1 @@
+import{_ as e}from"./snN_zHWA.js";import{e as t,f as n,o as _}from"./Acn3cvUR.js";import"./pYKC7zOY.js";const f=t({__name:"listen",setup(r){return(a,c)=>{const o=e;return _(),n(o)}}});export{f as default};
